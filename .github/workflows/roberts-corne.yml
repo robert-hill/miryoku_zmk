@@ -15,3 +15,4 @@ jobs:
       clipboard: '["Mac"]'
       layers: '["flip"]'
       custom_config: '["#define U_TAPPING_TERM=300"]'
+      kconfig: '["CONFIG_BT_CTLR_TX_PWR_PLUS_8=y"]'
