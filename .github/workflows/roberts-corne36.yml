@@ -14,4 +14,4 @@ jobs:
       nav: '["invertedT"]'
       clipboard: '["Mac"]'
       layers: '["flip"]'
-      custom_config: '["#define U_TAPPING_TERM=300", "#define CONFIG_ZMK_KEYBOARD_NAME="lowpro"]'
+      custom_config: '["#define U_TAPPING_TERM=300"]'
